@@ -15,7 +15,7 @@
 - 🛠️ Passionate about **Software Development, Embedded Systems & IoT**, and **Data Analytics**.
 - 💡 Hands-on experience with **ESP32 / Arduino microcontrollers, Power BI Dashboards, DAX**, and **Full-Stack Development**.
 - ⚡ **Looking to collaborate on:** Open-source software projects, IoT solutions, and Data Visualization tools.
-- 📬 **How to reach me:** `hashanmadhura@gmail.com`
+- 📬 **How to reach me:** `hashanmadhura3@gmail.com`
 
 ---
 
