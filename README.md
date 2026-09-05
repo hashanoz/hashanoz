@@ -1,6 +1,6 @@
 <!-- HEADER BANNER / GREETING -->
 <h1 align="center">Hi 👋, I'm Hashan Madhura</h1>
-<h3 align="center">Applied IT Undergraduate @ SLTC Research University | Tech & IoT Enthusiast 🎓💻</h3>
+<h3 align="center">Bachelor of Applied IT (DAIT) Undergraduate @ SLTC Research University | Tech & IoT Enthusiast 🎓💻</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zsd2s3dnV2MGp1eHQyNXp1aGtkYzh0a3R4d25oenZhdzN3OGo0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1f3uM8X14FIwv1qvE/giphy.gif" width="200px" alt="Coding GIF" />
@@ -11,11 +11,11 @@
 <!-- ABOUT ME SECTION -->
 ### 👩‍💻 About Me
 
-- 🎓 Currently pursuing my **BSc (Hons) in Applied Information Technology** at **SLTC Research University**.
+- 🎓 Currently pursuing my **Bachelor of Applied IT (DAIT)** at **SLTC Research University**.
 - 🛠️ Passionate about **Software Development, Embedded Systems & IoT**, and **Data Analytics**.
 - 💡 Hands-on experience with **ESP32 / Arduino microcontrollers, Power BI Dashboards, DAX**, and **Full-Stack Development**.
 - ⚡ **Looking to collaborate on:** Open-source software projects, IoT solutions, and Data Visualization tools.
-- 📬 **How to reach me:** `hashanmadhura3@gmail.com`
+- 📬 **How to reach me:** `hashanmadhura@gmail.com`
 
 ---
 
