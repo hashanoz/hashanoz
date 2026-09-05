@@ -1,4 +1,3 @@
-<!-- HEADER BANNER / GREETING -->
 <h1 align="center">Hi 👋, I'm Hashan Madhura</h1>
 <h3 align="center">Bachelor of Applied IT (DAIT) Undergraduate @ SLTC Research University | Tech & IoT Enthusiast 🎓💻</h3>
 
@@ -8,7 +7,12 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&random=false&width=600&lines=Applied+IT+Undergraduate;Software+%26+IoT+Enthusiast;Data+Analytics+Learner" alt="Typing SVG" />
+</p>
+
+---
+
 ### 👩‍💻 About Me
 
 - 🎓 Currently pursuing my **Bachelor of Applied IT (DAIT)** at **SLTC Research University**.
@@ -19,7 +23,6 @@
 
 ---
 
-<!-- SKILLS & TECHNOLOGIES -->
 ### 🛠️ My Tech Stack
 
 **Programming Languages & Web Development:**
@@ -50,7 +53,6 @@
 
 ---
 
-<!-- SOCIAL MEDIA LINKS -->
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -64,7 +66,6 @@
 
 ---
 
-<!-- GITHUB DYNAMIC STATS -->
 ### 📊 GitHub Stats
 
 <p align="center">
