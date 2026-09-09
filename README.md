@@ -7,22 +7,22 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hashanoz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45" height="45"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="28" height="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/hashanoz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="45" height="45"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="28" height="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/hashanoz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="45" height="45"/>
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="28" height="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@hashanoz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" width="45" height="45"/>
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" width="28" height="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/hashanoz" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" width="45" height="45"/>
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" width="28" height="28"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:hashanmadhura3@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="45" height="45"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="28" height="28"/>
   </a>
 </p>
 
@@ -77,4 +77,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashanoz&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hashanoz&theme=tokyonight&color=blue&label=Profile+Views" alt="Profile Views" />
 </p>
