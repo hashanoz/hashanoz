@@ -2,8 +2,6 @@
 <h3 align="center">Bachelor of Applied IT (DAIT) Undergraduate @ SLTC Research University | Tech & IoT Enthusiast 🎓💻</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB2ZWE4eWl6NTAzcnVqbzFjampkOHp0b2JyNnhzajdqYjlrdnZ0byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="220px" alt="Custom Animated GIF 1" />
-  <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzI5OXVicmVvMXp5eno0Y2FkNG9qanBhZDhqaHQyd2lmcnc1MHZvayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/maH7muWJ1lHuTNOJUU/giphy.gif" width="150px" alt="Custom Animated GIF 2" />
 </p>
 
